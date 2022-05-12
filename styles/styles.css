@@ -15,6 +15,10 @@
   width: 50px;
   border: 1px solid grey;
   border-radius: 5px;
+  opacity: 0.5;
+}
+.periodic__card:hover {
+  opacity: 1;
 }
 .periodic__card--blank {
   border: none;
